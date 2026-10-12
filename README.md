@@ -20,7 +20,7 @@ An NLP project focused on classifying Arabic administrative documents into four 
 - Technologies: Python, NLP, AraBERT, LLaMA, QLoRA
 - Project focus: Arabic text classification and model evaluation
 
-Project Repository: Coming soon
+View Project Repository:(https://github.com/ReemAlosaimi/Arabic-Document-Sensitivity-Classification)
 
 Contact
 - Email: AlosaimiReemG@Gmail.com
